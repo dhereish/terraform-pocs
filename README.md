@@ -1,2 +1,4 @@
 # terraform-pocs
-Using Terraform concepts
+Terraform projects
+
+Project to test my knowlege with Terraform.
